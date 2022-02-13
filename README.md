@@ -1,0 +1,1 @@
+# gezgin_satici_problemi
